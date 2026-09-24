@@ -1,4 +1,4 @@
-# Awesome Sendible Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Best Sendible Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of the best Sendible alternatives and social media management tools for agencies, marketing teams, and creators, maintained by [ContentStudio](https://contentstudio.io).
 
